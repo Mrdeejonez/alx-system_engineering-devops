@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Scripts and coding
+learing how to use scripts inthe shell environment.
