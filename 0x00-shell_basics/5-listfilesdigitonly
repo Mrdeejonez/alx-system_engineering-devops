@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -GID -al -UID -al  
+ls -al -n  
