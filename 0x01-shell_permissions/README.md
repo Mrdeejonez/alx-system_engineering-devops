@@ -7,3 +7,7 @@
 3-new_owner changes the owner of the file betty
 
 4-empty creates and empty file called hello
+
+5-execute adds the permission to execute for the file hello
+
+
