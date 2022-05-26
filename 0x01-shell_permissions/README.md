@@ -18,4 +18,5 @@
 
 9-John_Doe provides full permissions to the user, exexute permission to the group and write execute permission to other
 
+10-mirror_permissions mirriros the permission set of an existing file 
  
