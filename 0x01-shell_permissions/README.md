@@ -12,4 +12,10 @@
 
 6-multiple_permissions adds executable permission to user and group
 
-7-everybody changes permissions for everyone 
+7-everybody changes permissions for everyone
+
+8-James_Bond strips everyone but other of permissions
+
+9-John_Doe provides full permissions to the user, exexute permission to the group and write execute permission to other
+
+ 
