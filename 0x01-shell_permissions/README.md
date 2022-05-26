@@ -5,3 +5,5 @@
 2-group is a script that prints the current group the user is under
 
 3-new_owner changes the owner of the file betty
+
+4-empty creates and empty file called hello
