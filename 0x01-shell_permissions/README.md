@@ -12,4 +12,4 @@
 
 6-multiple_permissions adds executable permission to user and group
 
-
+7-everybody changes permissions for everyone 
