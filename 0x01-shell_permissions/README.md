@@ -10,4 +10,6 @@
 
 5-execute adds the permission to execute for the file hello
 
+6-multiple_permissions adds executable permission to user and group
+
 
