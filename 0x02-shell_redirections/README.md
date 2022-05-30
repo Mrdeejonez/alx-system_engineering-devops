@@ -17,3 +17,5 @@
 9-duplicate_last_line takes the last line in the file and duplicates it
 
 10-no_more_js removes all .js files in the current directory
+
+11-directories list all directoriesin the current directory
