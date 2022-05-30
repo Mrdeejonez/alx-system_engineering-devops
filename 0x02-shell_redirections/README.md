@@ -11,3 +11,5 @@
 5-firstlines prints the first 190 lines in passwd
 
 6-thirdline prints the third line in iacta
+
+7-file copies the directory list into a file
