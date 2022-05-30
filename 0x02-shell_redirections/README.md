@@ -4,7 +4,7 @@
 
 2-hellofile prints the contents inside etx/passwd and prints it to the console
 
-ii3-twofiles prints the contents of passwd and host
+3-twofiles prints the contents of passwd and host
 
 4-lastlines prints the last 10 lines in passwd
 
@@ -16,4 +16,4 @@ ii3-twofiles prints the contents of passwd and host
 
 9-duplicate_last_line takes the last line in the file and duplicates it
 
-
+10-no_more_js removes all .js files in the current directory
