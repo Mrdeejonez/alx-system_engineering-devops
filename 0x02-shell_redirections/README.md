@@ -7,3 +7,7 @@
 3-twofiles prints the contents of passwd and host
 
 4-lastlines prints the last 10 lines in passwd
+
+5-firstlines prints the first 190 lines in passwd
+
+
