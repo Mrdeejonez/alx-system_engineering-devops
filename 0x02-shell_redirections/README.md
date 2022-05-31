@@ -26,4 +26,5 @@
 
 14-find that file finds specific ext within a file
 
+15-countthatword counts the number of times bin appeats in passwd and prints it
 
