@@ -2,3 +2,4 @@
 
 1-hello_you prints hello to the current user
 
+2-path adds /action to the one of the directories that bash is executable in
