@@ -6,4 +6,6 @@
 
 3-paths shows the number of peramiter curently in the previously executed
 
-4-prints out the global set of variables on the machine 
+4-prints out the global set of variables on the machine
+
+5-local_variablse shows all the set variables for the user 
