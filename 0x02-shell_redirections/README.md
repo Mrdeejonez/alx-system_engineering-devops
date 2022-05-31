@@ -22,3 +22,8 @@
 
 12-newest_files lists 10 of the newest files in new to old order
 
+13-unique finds the text that appears once in alist
+
+14-find that file finds specific ext within a file
+
+
