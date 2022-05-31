@@ -28,3 +28,14 @@
 
 15-countthatword counts the number of times bin appeats in passwd and prints it
 
+16-whatsnext prints next three lins of the searched pattern
+
+17-hidethatword dispays everythng in passwd withou the word bin
+
+19-AZ replaces chosen charecters with new ones
+
+20-hiago removes all occurances of the letter c
+
+21-reverse reverses the input of whatever is printed
+
+
