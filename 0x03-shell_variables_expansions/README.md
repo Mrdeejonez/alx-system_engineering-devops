@@ -4,4 +4,6 @@
 
 2-path adds /action to the one of the directories that bash is executable in
 
-3-paths shows the number of peramiter curently in the previously executed 
+3-paths shows the number of peramiter curently in the previously executed
+
+4-prints out the global set of variables on the machine 
