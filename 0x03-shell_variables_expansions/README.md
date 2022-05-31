@@ -3,3 +3,5 @@
 1-hello_you prints hello to the current user
 
 2-path adds /action to the one of the directories that bash is executable in
+
+3-paths shows the number of peramiter curently in the previously executed 
