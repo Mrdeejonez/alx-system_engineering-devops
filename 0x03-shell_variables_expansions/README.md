@@ -8,4 +8,6 @@
 
 4-prints out the global set of variables on the machine
 
-5-local_variablse shows all the set variables for the user 
+5-local_variablse shows all the set variables for the user
+
+6-creat_local_variable creates alocal variable for the curent instance of bash 
