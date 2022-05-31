@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | rev
+echo "esreveR" | rev
