@@ -10,4 +10,6 @@
 
 5-local_variablse shows all the set variables for the user
 
-6-creat_local_variable creates alocal variable for the curent instance of bash 
+6-creat_local_variable creates alocal variable for the curent instance of bash
+
+7-create_globale_variable exports to global bash 
