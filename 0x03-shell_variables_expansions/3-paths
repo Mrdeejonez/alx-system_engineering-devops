@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST | wc c-l
+export BEST | cat -e
